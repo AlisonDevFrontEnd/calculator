@@ -89,8 +89,6 @@ class Calculator {
   }
 }
 
-// O restante do código permanece o mesmo
-
 const numberButtons = document.querySelectorAll("[data-number]");
 const operationButtons = document.querySelectorAll("[data-operation]");
 const equalsButton = document.querySelector("[data-equals]");
